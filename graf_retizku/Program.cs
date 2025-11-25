@@ -29,6 +29,7 @@ namespace graf_retizku
                 }
                 Console.WriteLine();
             }
+            int x = 10;
         }
     }
 }

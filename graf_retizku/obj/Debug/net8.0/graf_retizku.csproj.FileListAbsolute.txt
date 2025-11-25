@@ -1,0 +1,15 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.sourcelink.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\bin\Debug\net8.0\graf_retizku.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\bin\Debug\net8.0\graf_retizku.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\bin\Debug\net8.0\graf_retizku.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\bin\Debug\net8.0\graf_retizku.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\bin\Debug\net8.0\graf_retizku.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\refint\graf_retizku.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\graf_retizku.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\seminar\graf_retizku\obj\Debug\net8.0\ref\graf_retizku.dll

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|ConsoleApp1.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|graf_retizku.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\seminar\\graf_retizku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|graf_retizku.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|graf_retizku.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\consoleapp1\\graf_retizku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|graf_retizku.csproj|c:\\users\\belru_cb331rc\\onedrive\\documents\\school\\seminar\\graf_retizku\\graf_retizku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{83A88379-B0C8-4D23-8BB4-4CC6E9E6949F}|graf_retizku.csproj|solutionrelative:graf_retizku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -21,33 +21,33 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "graf_retizku.csproj",
-              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\graf_retizku.csproj",
-              "RelativeDocumentMoniker": "graf_retizku.csproj",
-              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\graf_retizku.csproj",
-              "RelativeToolTip": "graf_retizku.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T23:09:57.967Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "graf_retizku.csproj",
+              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\graf_retizku.csproj",
+              "RelativeDocumentMoniker": "graf_retizku.csproj",
+              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\graf_retizku.csproj",
+              "RelativeToolTip": "graf_retizku.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T13:38:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:54:24.161Z",
+              "WhenOpened": "2025-11-25T13:38:32.211Z",
               "EditorCaption": ""
             }
           ]

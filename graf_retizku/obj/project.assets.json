@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\graf_retizku.csproj",
+      "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\graf_retizku.csproj",
       "projectName": "graf_retizku",
-      "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\graf_retizku.csproj",
+      "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\graf_retizku.csproj",
       "packagesPath": "C:\\Users\\belru_cb331rc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\graf_retizku\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\belru_cb331rc\\AppData\\Roaming\\NuGet\\NuGet.Config",
