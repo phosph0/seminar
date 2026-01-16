@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\bin\Debug\net8.0\procviceni_zakladu.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\bin\Debug\net8.0\procviceni_zakladu.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\bin\Debug\net8.0\procviceni_zakladu.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\bin\Debug\net8.0\procviceni_zakladu.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\bin\Debug\net8.0\procviceni_zakladu.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\refint\procviceni_zakladu.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\procviceni_zakladu.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\procviceni_zakladu\obj\Debug\net8.0\ref\procviceni_zakladu.dll

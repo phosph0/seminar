@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("graf_retizku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b9f1b9f624fb3e1743668cdb47937623b73ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4025597c006f75d36709f471a93fc6c024fd94a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("graf_retizku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("graf_retizku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
