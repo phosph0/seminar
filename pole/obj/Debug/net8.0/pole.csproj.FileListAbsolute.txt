@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\bin\Debug\net8.0\pole.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\bin\Debug\net8.0\pole.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\bin\Debug\net8.0\pole.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\bin\Debug\net8.0\pole.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\bin\Debug\net8.0\pole.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\refint\pole.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\pole.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\pole\obj\Debug\net8.0\ref\pole.dll

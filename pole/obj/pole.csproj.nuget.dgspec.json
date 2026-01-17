@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\procviceni_zakladu\\procviceni_zakladu.csproj": {}
+    "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\pole\\pole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\procviceni_zakladu\\procviceni_zakladu.csproj": {
+    "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\pole\\pole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\procviceni_zakladu\\procviceni_zakladu.csproj",
-        "projectName": "procviceni_zakladu",
-        "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\procviceni_zakladu\\procviceni_zakladu.csproj",
+        "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\pole\\pole.csproj",
+        "projectName": "pole",
+        "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\pole\\pole.csproj",
         "packagesPath": "C:\\Users\\belru_cb331rc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\procviceni_zakladu\\obj\\",
+        "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\pole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belru_cb331rc\\AppData\\Roaming\\NuGet\\NuGet.Config",
