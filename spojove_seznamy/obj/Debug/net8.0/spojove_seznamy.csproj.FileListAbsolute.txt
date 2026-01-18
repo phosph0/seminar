@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\bin\Debug\net8.0\spojove_seznamy.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\bin\Debug\net8.0\spojove_seznamy.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\bin\Debug\net8.0\spojove_seznamy.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\bin\Debug\net8.0\spojove_seznamy.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\bin\Debug\net8.0\spojove_seznamy.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\refint\spojove_seznamy.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\spojove_seznamy.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\spojove_seznamy\obj\Debug\net8.0\ref\spojove_seznamy.dll

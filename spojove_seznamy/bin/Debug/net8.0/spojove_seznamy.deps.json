@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "spojove_seznamy/1.0.0": {
+        "runtime": {
+          "spojove_seznamy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spojove_seznamy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
