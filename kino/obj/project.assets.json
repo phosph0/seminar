@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\spojove_seznamy\\spojove_seznamy.csproj",
-      "projectName": "spojove_seznamy",
-      "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\spojove_seznamy\\spojove_seznamy.csproj",
+      "projectUniqueName": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\kino\\kino.csproj",
+      "projectName": "kino",
+      "projectPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\kino\\kino.csproj",
       "packagesPath": "C:\\Users\\belru_cb331rc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\seminar\\spojove_seznamy\\obj\\",
+      "outputPath": "C:\\Users\\belru_cb331rc\\OneDrive\\Documents\\school\\kino\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\belru_cb331rc\\AppData\\Roaming\\NuGet\\NuGet.Config",

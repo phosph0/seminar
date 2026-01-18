@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\bin\Debug\net8.0\kino.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\bin\Debug\net8.0\kino.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\bin\Debug\net8.0\kino.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\bin\Debug\net8.0\kino.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\bin\Debug\net8.0\kino.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\refint\kino.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\kino.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\kino\obj\Debug\net8.0\ref\kino.dll
