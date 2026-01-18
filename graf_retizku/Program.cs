@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//casova slozitost O(n^2)
+// pametova O(n + m)
 namespace graf_retizku
 {
 
@@ -10,27 +12,19 @@ namespace graf_retizku
         {
             int pocetLidi = Convert.ToInt32(Console.ReadLine());
             int[,] matice = new int[pocetLidi, pocetLidi];
-            string vstupni_data = Console.ReadLine();
-            string[] dvojice = vstupni_data.Split();
+            string vstupniData = Console.ReadLine();
+            string[] dvojice = vstupniData.Split();
 
             for (int i = 0; i < dvojice.Length; i++)
             {
-                string[] seznam_dvojice = dvojice[i].Split('-');
+                string[] seznamDvojice = dvojice[i].Split('-');
 
-                int a = Convert.ToInt32(seznam_dvojice[0]) - 1;
-                int b = Convert.ToInt32(seznam_dvojice[1]) - 1;
+                int a = Convert.ToInt32(seznamDvojice[0]) - 1;
+                int b = Convert.ToInt32(seznamDvojice[1]) - 1;
 
                 matice[a, b] = 1;
                 matice[b, a] = 1;
             }
-            //for (int i = 0; i < pocetLidi + 1; i++)
-            //{
-                //for (int j = 0; j < pocetLidi + 1; j++)
-                //{
-                    //Console.Write($"{matice[i, j]} ");
-                //}
-                //Console.WriteLine();
-            //}
             string [] startCil = Console.ReadLine().Split();
             int start = Convert.ToInt32(startCil[0]) - 1;
             int cil = Convert.ToInt32(startCil[1]) - 1;
@@ -41,7 +35,7 @@ namespace graf_retizku
             predchudce[start] = -1;
             bool existuje = false;
 
-            // seznam pro vzdálenosti
+     
             // seznam pro předchůdce
             Queue<int> queue = new Queue<int>();
             queue.Enqueue(start);
