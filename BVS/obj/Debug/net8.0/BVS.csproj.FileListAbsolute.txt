@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\bin\Debug\net8.0\BVS.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\bin\Debug\net8.0\BVS.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\bin\Debug\net8.0\BVS.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\bin\Debug\net8.0\BVS.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\bin\Debug\net8.0\BVS.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\refint\BVS.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\BVS.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\BVS\obj\Debug\net8.0\ref\BVS.dll
