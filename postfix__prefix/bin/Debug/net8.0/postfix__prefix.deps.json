@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "postfix__prefix/1.0.0": {
+        "runtime": {
+          "postfix__prefix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "postfix__prefix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

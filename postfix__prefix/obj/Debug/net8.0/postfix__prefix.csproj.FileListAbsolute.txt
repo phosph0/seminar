@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\bin\Debug\net8.0\postfix__prefix.exe
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\bin\Debug\net8.0\postfix__prefix.deps.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\bin\Debug\net8.0\postfix__prefix.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\bin\Debug\net8.0\postfix__prefix.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\bin\Debug\net8.0\postfix__prefix.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\refint\postfix__prefix.dll
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.pdb
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\postfix__prefix.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Documents\school\postfix__prefix\obj\Debug\net8.0\ref\postfix__prefix.dll
