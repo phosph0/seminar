@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\bin\Debug\net8.0\Quick_sort.exe
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\bin\Debug\net8.0\Quick_sort.deps.json
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\bin\Debug\net8.0\Quick_sort.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\bin\Debug\net8.0\Quick_sort.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\bin\Debug\net8.0\Quick_sort.pdb
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\refint\Quick_sort.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.pdb
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\Quick_sort.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\Quick_sort\obj\Debug\net8.0\ref\Quick_sort.dll
