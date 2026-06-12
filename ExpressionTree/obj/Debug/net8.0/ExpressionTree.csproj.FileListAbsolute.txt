@@ -1,0 +1,14 @@
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\bin\Debug\net8.0\ExpressionTree.exe
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\bin\Debug\net8.0\ExpressionTree.deps.json
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\bin\Debug\net8.0\ExpressionTree.runtimeconfig.json
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\bin\Debug\net8.0\ExpressionTree.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\bin\Debug\net8.0\ExpressionTree.pdb
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.AssemblyInfoInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.AssemblyInfo.cs
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\refint\ExpressionTree.dll
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.pdb
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ExpressionTree.genruntimeconfig.cache
+C:\Users\belru_cb331rc\OneDrive\Рабочий стол\school\ExpressionTree\obj\Debug\net8.0\ref\ExpressionTree.dll
